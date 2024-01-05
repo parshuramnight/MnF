@@ -1,0 +1,26 @@
+﻿|+++++++Cheats+++++++|
+To launch the console "right click->Tools->Console(as2)"!
+
+--==Sky Fishing==--
+game.screen.level_time=число - количество секунд;
+game.screen.dildos_count= число - количество сердец;
+
+--==Dildo Fishing==--
+screen.level_time=число - количество секунд;
+
+--==Street Racing==--
+screen.damage=0-отключить повреждения;
+
+--==Busty Raider==--
+screen.health=0-отключить повреждения;
+
+-==Street Games 2==--
+screen.act.timer=число - количество секунд;
+screen.act.skipping_rope.try_again=число- количество попыток;
+
+--==The Iron Giant==--
+screen.xray-counter=1 - бесконечный "x-ray" режим(2-ой уровень);
+screen.end=true - , что вас заметят;
+
+--==Sleep Assault==--
+screen._delta_incr=0 - во время сцены девочка не проснется;
